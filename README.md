@@ -14,5 +14,5 @@ The logistic regression model predicts whether a loan is healthy or high-risk ba
 Given that the model misses 15% of the high-risk loans, it is not the best model; however, it is still extremely good. There is an imbalance of healthy loans to high-risk loans: healthy loans are almost 30 times more common than high-risk loans. However, missing the high-risk loans can have a higher financial loss. Ideally, we would want a model that over-identifies the high-risk loans. This model slightly under-identifies them, but it is still overall a very accurate model, and I would still recommend its use. 
 
 ### Final Notes:
-Information on accuracy, precision, recall, and confusion matrices was researched at the following site: https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall
+Information on accuracy, precision, recall, and confusion matrices was researched at the following site: https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall <br>
 All other materials for this module were taken from in-class learning and examples. 
